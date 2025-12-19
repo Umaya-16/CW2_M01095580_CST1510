@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc 
+.env
+.vscode/
+.idea/
+.venv/
+._CARS.csv
+.venv
+user.txt
+DATA
+.streamlit
