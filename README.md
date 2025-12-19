@@ -1,6 +1,7 @@
 CW2_M01095580_CST1510
 
 Description
+
 This repository contains coursework for module CST1510.
 It demonstrates my ability to design, develop and deploy a Python-based application with secure coding practices, version control and user-friendly features.
 
